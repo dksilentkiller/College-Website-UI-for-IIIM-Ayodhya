@@ -1,0 +1,264 @@
+.event-card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.event-date {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.event-description {
+    font-size: 0.9rem;
+}
+.event-time {
+    font-weight: bold;
+}
+
+body {
+    font-family: "Rubik", sans-serif;
+  }
+  .headline {
+    background-color: rgb(2, 100, 213);
+    color: white;
+  }
+  .headlinetext {
+    font-size: 15px;
+  }
+  .txt a {
+    text-decoration: none;
+    color: white;
+    border-radius: 1px solid white;
+  }
+  .ss {
+    font-size: 18px;
+  }
+  .h1s {
+    
+  
+    font-size: 65px;
+    color:rgb(2, 100, 213);
+    
+  }
+  .p1s {
+   
+    width: 550px;
+    text-align: justify;
+    font-size: 16px;
+  }
+  .bn1{
+    background-color: rgb(2, 100, 213);
+    margin-top:10px;
+    border-radius: 0px;
+    color:white;
+  
+  }
+  .slimg{
+      margin-left: -60px;
+  }
+  .box1{
+      
+      margin-left: 200px;
+  padding: 24px;
+  height: 300px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.63),rgba(255, 255, 255, 0.702));
+  margin-top: 80px;
+  width:600px;
+  
+  
+      
+  }
+  .ass{
+      background-color: royalblue;
+      padding: 10px;
+      font-size: 20px;
+      border: 1px solid transparent;
+     width:240px;
+     color:white;
+  }
+  .ass1{
+  }
+  .nu1{
+      border-left: 7px solid rgb(2, 100, 213);
+     padding-left: 10px;
+  }
+  .sty{
+      background-color: rgb(247, 239, 229);
+  }
+  .nu11{
+      border-left: 7px solid white;
+     padding-left: 10px;
+  }
+  .nav-link:hover{
+    color:black !important;
+  }
+  .op1{
+    position: absolute ;
+    top:40%;
+    left:30%;
+    opacity: 0;
+  }
+  
+  .op1:hover{
+    opacity: 1;
+    transition: 0.7s ease;
+    height: 50px;
+  }
+  .footer-section {
+    background:;
+    color:white;
+    position: relative;
+  }
+  .footer-cta {
+    border-bottom: 1px solid #ffffff;
+  }
+  .single-cta i {
+    color: #fff;
+    font-size: 30px;
+    float: left;
+    margin-top: 8px;
+  }
+  .cta-text {
+    padding-left: 15px;
+    display: inline-block;
+  }
+  .cta-text h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+  .cta-text span {
+    color: white;
+    font-size: 15px;
+  }
+  .footer-content {
+    position: relative;
+    z-index: 2;
+  }
+  .footer-pattern img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 330px;
+    background-size: cover;
+    background-position: 100% 100%;
+  }
+  .footer-logo {
+    margin-bottom: 30px;
+  }
+  .footer-logo img {
+      max-width: 200px;
+  }
+  .footer-text p {
+    margin-bottom: 14px;
+    font-size: 14px;
+        color: #fff;
+    line-height: 28px;
+  }
+  .footer-social-icon span {
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+  }
+  .footer-social-icon a {
+    color: #fff;
+    font-size: 16px;
+    margin-right: 15px;
+  }
+  .footer-social-icon i {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 38px;
+    border-radius: 50%;
+  }
+  .facebook-bg{
+    background: #3B5998;
+  }
+  .twitter-bg{
+    background: #55ACEE;
+  }
+  .google-bg{
+    background: #1caa00;
+  }
+  .footer-widget-heading h3 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    position: relative;
+  }
+  .footer-widget-heading h3::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    height: 2px;
+    width: 50px;
+    background: #1caa00;
+  }
+  .footer-widget ul li {
+    display: inline-block;
+    float: left;
+    width: 50%;
+    margin-bottom: 12px;
+  }
+  .footer-widget ul li a:hover{
+    color: #1caa00;
+  }
+  .footer-widget ul li a {
+    color: #fff;
+    text-transform: capitalize;
+  }
+  .subscribe-form {
+    position: relative;
+    overflow: hidden;
+  }
+  .subscribe-form input {
+    width: 100%;
+    padding: 14px 28px;
+    background: #fff;
+    border: 1px solid #1caa00;
+    color: #000000;
+  }
+  .subscribe-form button {
+      position: absolute;
+      right: 0;
+      background: #1caa00;
+      padding: 13px 20px;
+      border: 1px solid #1caa00;
+      top: 0;
+  }
+  .subscribe-form button i {
+    color: #fff;
+    font-size: 22px;
+    transform: rotate(-6deg);
+  }
+  .copyright-area{
+    background;
+    padding: 25px 0;
+  }
+  .copyright-text p {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+  }
+  .copyright-text p a{
+    color: white;
+  }
+  .footer-menu li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  .footer-menu li:hover a{
+    color: #1caa00;
+  }
+  .footer-menu li a {
+    font-size: 14px;
+    color: #fff;
+  }
